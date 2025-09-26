@@ -1,4 +1,4 @@
 def main() -> None:
-	print("Hello")
+	print("Hello Cruel World")
 
 main()
